@@ -1,4 +1,6 @@
-### Hi there 👋
+### 📫 你好！欢迎查看ZY的个人笔记,希望也能对你有帮助
+
+//*2023.10*//
 
 <!--
 **zywangsui/zywangsui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+-->🌱
+1. C++/STL知识梳理.        [CPP_STL](https://github.com/zywangsui/CPP_STL)
+2. 上位机常用设计模式.     [Design_pattern](https://github.com/zywangsui/Design_pattern)
+3. 常用的数据结构与算法.   [structure_algorithm](https://github.com/zywangsui/structure_algorithm)
+4. 个人学习Qt的笔记.       [Qt_Note](https://github.com/zywangsui/Qt_Note/blob/main/Qt%E6%9C%BA%E5%88%B6.md)
+5. klayout社区版二次开发.  [KLAYOUT_SD](https://github.com/zywangsui/KLAYOUT_SD)
